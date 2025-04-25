@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ajay Saroha
 - 🎓 BSc Computer Science Student
 - 💻 Skills: Python, SQL, C, OS, Excel
-- 🚀 Exploring Data Science & Web Development
+- 🚀 Exploring Data Analytics & Data Entry
 - 🔗 [LinkedIn Profile](your-linkedin-url)
 <!---
 Ajay-Saroha-CS/Ajay-Saroha-CS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
