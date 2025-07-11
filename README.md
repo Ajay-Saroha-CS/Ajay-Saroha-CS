@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajay Saroha
 - 🎓 BSc Computer Science Student
-- 💻 Skills: Python, SQL, C, OS, Excel
+- 💻 Skills: Python, SQL, C, OS, Excel, Power BI, AI, Web Development
 - 🚀 Exploring Data Analytics & Data Entry
 - 🔗 [LinkedIn Profile](your-linkedin-url)
 <!---
